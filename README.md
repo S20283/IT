@@ -1,5 +1,5 @@
 # IT
-repo
+
 #sql
 https://preview.redd.it/sql-cheatsheet-v0-1phu1tlrirob1.jpg?auto=webp&s=600ba53ab00ecf89381c2effb11af76e98d784c9
 https://scalefresh.com/sql-cheatsheet-business-users/
